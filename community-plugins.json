@@ -29062,5 +29062,12 @@
     "author": "Nikita Gaziev",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Adds highly customizable and native-feeling layouts to bases: Bar Chart, Line Chart, and Pie Chart.",
     "repo": "zobweyt/obsidian-charts"
-  }
+  },
+  {
+  "id": "cevent-planner",
+  "name": "CEvent-Planner",
+  "author": "Abdur-Nur-Porag",
+  "description": "Best for daily schedule planner, task organizer, to do reminder , calendar, alarm, 24 hour task time view,filters, tags,...so on.",
+  "repo": "Abdur-Nur-Porag/CEvent-Planner"
+}
 ]
